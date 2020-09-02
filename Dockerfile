@@ -1,4 +1,4 @@
-FROM filebrowser/filebrowser as filebrowser
+FROM filebrowser/filebrowser:v2.6.2-alpine
 
 ENV version=2.5.17
 
