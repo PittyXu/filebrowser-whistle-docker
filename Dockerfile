@@ -1,7 +1,7 @@
 # whistle for Dockerfile
 FROM alpine:latest
 
-ENV version=2.5.19
+ENV version=2.5.20
 
 RUN set -ex && \
 #    sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories && \
