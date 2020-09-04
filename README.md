@@ -1,7 +1,7 @@
 # whistle-docker
 
 ## Version
-2.5.19
+2.5.20
 
 http://wproxy.org/
 
